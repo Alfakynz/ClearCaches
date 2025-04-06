@@ -1,6 +1,6 @@
 //
 //  AboutCommand.swift
-//  clear-caches
+//  ClearCaches
 //
 //  Created by Alfakynz Nyxaeris on 06/04/2025.
 //

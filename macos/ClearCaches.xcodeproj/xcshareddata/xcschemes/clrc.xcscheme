@@ -15,10 +15,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "A7121E3D2DA1CF34004B697A"
-               BuildableName = "clear-caches"
-               BlueprintName = "clear-caches"
-               ReferencedContainer = "container:clear-caches.xcodeproj">
+               BlueprintIdentifier = "A789238A2DA2D7EF00C8657E"
+               BuildableName = "clrc"
+               BlueprintName = "clrc"
+               ReferencedContainer = "container:ClearCaches.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -31,7 +31,7 @@
       shouldAutocreateTestPlan = "YES">
    </TestAction>
    <LaunchAction
-      buildConfiguration = "Debug"
+      buildConfiguration = "Release"
       selectedDebuggerIdentifier = "Xcode.DebuggerFoundation.Debugger.LLDB"
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       launchStyle = "0"
@@ -45,10 +45,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A7121E3D2DA1CF34004B697A"
-            BuildableName = "clear-caches"
-            BlueprintName = "clear-caches"
-            ReferencedContainer = "container:clear-caches.xcodeproj">
+            BlueprintIdentifier = "A789238A2DA2D7EF00C8657E"
+            BuildableName = "clrc"
+            BlueprintName = "clrc"
+            ReferencedContainer = "container:ClearCaches.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,10 +62,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "A7121E3D2DA1CF34004B697A"
-            BuildableName = "clear-caches"
-            BlueprintName = "clear-caches"
-            ReferencedContainer = "container:clear-caches.xcodeproj">
+            BlueprintIdentifier = "A789238A2DA2D7EF00C8657E"
+            BuildableName = "clrc"
+            BlueprintName = "clrc"
+            ReferencedContainer = "container:ClearCaches.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

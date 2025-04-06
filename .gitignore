@@ -111,3 +111,8 @@ xcuserdata/
 **/xcshareddata/WorkspaceSettings.xcsettings
 
 # End of https://www.toptal.com/developers/gitignore/api/linux,macos,windows,visualstudiocode,xcode
+
+## Build
+build/
+.build/
+Package.resolved

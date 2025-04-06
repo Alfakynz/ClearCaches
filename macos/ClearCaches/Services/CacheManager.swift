@@ -1,6 +1,6 @@
 //
 //  CacheManager.swift
-//  clear-caches
+//  ClearCaches
 //
 //  Created by Alfakynz Nyxaeris on 05/04/2025.
 //
@@ -29,7 +29,7 @@ enum CacheManager {
         print("Deletion of the \(app) cache only ... (simulation)")
     }
     static func about() {
-        print("clear-caches v\(CLIInfo.version)")
+        print("\(CLIInfo.name) v\(CLIInfo.version)")
         print("Author : \(CLIInfo.author)")
         print("Licence : \(CLIInfo.license)")
         print(CLIInfo.description)

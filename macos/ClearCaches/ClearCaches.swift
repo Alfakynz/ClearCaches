@@ -1,6 +1,6 @@
 //
 //  ClearCaches.swift
-//  clear-caches
+//  ClearCaches
 //
 //  Created by Alfakynz Nyxaeris on 05/04/2025.
 //
@@ -10,6 +10,7 @@ import ArgumentParser
 
 struct ClearCaches: ParsableCommand {
     static let configuration = CommandConfiguration(
+        commandName: CLIInfo.shortName,
         abstract: CLIInfo.description,
         version: CLIInfo.version,
         subcommands: [ListCommand.self, ClearCommand.self, AboutCommand.self]

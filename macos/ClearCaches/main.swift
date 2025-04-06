@@ -1,10 +1,10 @@
 //
 //  main.swift
-//  clear-caches
+//  ClearCaches
 //
 //  Created by Alfakynz Nyxaeris on 05/04/2025.
 //
 
-import ArgumentParser
+import Foundation
 
 ClearCaches.main()
